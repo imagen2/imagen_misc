@@ -1,5 +1,5 @@
 =========================================
-Misclelaneous tools for database operations of the Imagen project 
+Miscellaneous tools for database operations of the Imagen project 
 =========================================
 
 ``dump_rql_upload``
