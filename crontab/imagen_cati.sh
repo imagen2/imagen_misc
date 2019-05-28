@@ -5,5 +5,5 @@
 # 1. It sends new imaging datasets to the CATI team for QC.
 # 2. It dumps the database of the upload portal to a JSON file.
 
-/cveda/databank/virtualenvs/scripts/qualicati/sync_qc_res.sh
-/cveda/databank/framework/cveda_misc/dump_rql_upload/dump_rql_upload.sh
+/home/imagen/virtualenvs/qualicati_scripts/sync_qc_res.sh
+/home/imagen/imagen_misc/dump_rql_upload/dump_rql_upload.sh
