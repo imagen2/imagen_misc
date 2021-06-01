@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# this script is executed daily by imagen@imagen2.cea.fr at 04:10 AM CET/CEST
+# this script is executed daily at 04:10 AM CET/CEST
 #
 # 1. It downloads data from the Delosis server into raw CSV files.
 # 2. It derives the raw CSV files.
