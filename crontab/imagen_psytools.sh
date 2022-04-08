@@ -12,6 +12,7 @@ mkdir -p /tmp/imagen/BL/processed/psytools \
          /tmp/imagen/FU2/processed/psytools \
          /tmp/imagen/FU3/processed/psytools \
          /tmp/imagen/STRATIFY/processed/psytools \
+         /tmp/imagen/STRATIFY_FU/processed/psytools \
          /tmp/imagen/IMACOV19_BL/processed/psytools \
          /tmp/imagen/IMACOV19_FU/processed/psytools \
          /tmp/imagen/IMACOV19_FU2/processed/psytools \
